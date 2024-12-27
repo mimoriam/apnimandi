@@ -3,6 +3,7 @@
     "name": "apnimandi",
     "slug": "apnimandi",
     "version": "1.0.0",
+    "newArchEnabled": true,
 
     "scheme": "apnimandi",
     "web": {
