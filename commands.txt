@@ -1,0 +1,4 @@
+npm i -D eslint-config-prettier eslint-plugin-prettier eslint-plugin-import
+
+node -v > .nvmrc
+(echo .expo node_modules) > .eslintignore
