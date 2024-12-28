@@ -19,14 +19,13 @@
     },
 
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/ic_launcher.PNG",
 
     "userInterfaceStyle": "light",
 
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/images/launch_screen.PNG",
+      "backgroundColor": "#09b44c"
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
@@ -34,7 +33,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/adaptive-icon.PNG",
         "backgroundColor": "#ffffff"
       }
     }
